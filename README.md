@@ -1,5 +1,8 @@
 # coding-convention-apple
 
+
+## Coding Conventions
+
 Guide for how to read these conventions effectively:
 * The order of each document listed under each programming language matters from Most to Less important. If a rule is duplicated in multiple documents, follow the first one you read.
 * The most important parts/sections are listed under each document. You should read and understand them first.
@@ -79,7 +82,7 @@ Guide for how to read these conventions effectively:
     1. Parentheses
 1. [Github](https://github.com/github/swift-style-guide) (optional)
 
-# Code Layout inside a Source Code File
+## Code Layout inside a Source Code File
 
 As a general principle, from top to down side in a single scope(e.g. a struct/class) of source code file, the code should be layout as following:
 * Properties should be listed upper than functions
